@@ -96,3 +96,4 @@ while validation:
         print("Opcion no valida")
         sleep(2)
         os.system("cls" if os.name=="nt" else "clear")
+        
